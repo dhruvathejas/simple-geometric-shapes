@@ -1,0 +1,17 @@
+{
+    "U9^20M7*O-|yUgcKsaqA": {
+        "data": "hwQBAAEAAAADAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cloned pixel"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAzMzMzMzMzMwMAAAAAAAAwAwAAAAAAADADAAAAAAAAMAMAAAAAAAAwAwAAAAAAADADAAAAAAAAMAMAAAAAAAAwAwAAAAAAADADAAAAAAAAMAMAAAAAAAAwAwAAAAAAADADAAAAAAAAMAMAAAAAAAAwAzAzAAAAADAzMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
